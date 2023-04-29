@@ -10,7 +10,7 @@ We’ve decided to open a small robot-run cafe in Los Angeles. The project is pr
 ## Project goal:
 To check the current market conditions and decide if the start up can maintain success.
 
-## Methodology
+## Methodology:
 ### Prepearing the data:
 1. Cheking the overview data.
 2. Checking the data for missing values, duplicates and outliers.
