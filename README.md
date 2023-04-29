@@ -11,19 +11,21 @@ We’ve decided to open a small robot-run cafe in Los Angeles. The project is pr
 To check the current market conditions and decide if the start up can maintain success.
 
 ## Methodology
-Cheking the overview data.
-Checking the data for missing values, duplicates and outliers.
-Check if data types are right.
-Data preprosscing and calculcation.
+### Prepearing the data:
+1. Cheking the overview data.
+2. Checking the data for missing values, duplicates and outliers.
+3. Check if data types are right.
+4. Data preprosscing and calculcation.
 
-Investigate the proportions of the various types of establishments.
-Investigate the proportions of chain and nonchain establishments.
-Check which type of establishment is typically a chain?
-What characterizes chains: many establishments with a small number of seats or a few establishments with a lot of seats?
-Determine the average number of seats for each type of restaurant.
-On average, which type of restaurant has the greatest number of seats?
-Check the top ten streets by number of restaurants.
-Discover trends for streets with a lot of restaurants, checking the distribution of the number of seats.
+### The research:
+1. Investigate the proportions of the various types of establishments.
+2. Investigate the proportions of chain and nonchain establishments.
+3. Check which type of establishment is typically a chain?
+4. What characterizes chains: many establishments with a small number of seats or a few establishments with a lot of seats?
+5. Determine the average number of seats for each type of restaurant.
+6. On average, which type of restaurant has the greatest number of seats?
+7. Check the top ten streets by number of restaurants.
+8. Discover trends for streets with a lot of restaurants, checking the distribution of the number of seats.
 
 ## Libraries:
 - pandas
